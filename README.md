@@ -1,4 +1,10 @@
-### Hi there 👋
+## 👋  Welcome! I'm [Qizhen](https://qzweng.github.io/)
+
+![stars_of_collaborator](https://img.shields.io/github/stars/qzweng?affiliations=COLLABORATOR&style=social)
+![followers](https://img.shields.io/github/followers/qzweng?style=social)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=qzweng.qzweng)
+
+I am a Ph.D. candidate interested in AI 🤖 and GPU Cloud ☁️. 
 
 <!--
 **qzweng/qzweng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
