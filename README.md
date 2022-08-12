@@ -4,7 +4,9 @@
 ![followers](https://img.shields.io/github/followers/qzweng?style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=qzweng.qzweng)
 
-I am a Ph.D. candidate interested in AI 🤖 and GPU Cloud ☁️. 
+- 🎓 Ph.D. candidate in AI 🤖 and GPU Cloud ☁️
+- 🔥 Love the sharing of [insights](https://www.usenix.org/conference/nsdi22/presentation/weng), [traces](https://github.com/alibaba/clusterdata/tree/master/cluster-trace-gpu-v2020), [codes](https://github.com/alibaba/open-simulator)
+- 📰 Paper published in Proc. NSDI, SC, SoCC
 
 <!--
 **qzweng/qzweng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
