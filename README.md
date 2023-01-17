@@ -4,8 +4,8 @@
 ![followers](https://img.shields.io/github/followers/qzweng?style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=qzweng.qzweng)
 
-- 🎓 Ph.D. candidate in AI 🤖 and GPU Cloud ☁️
-- 🔥 Love the sharing of [insights](https://www.usenix.org/conference/nsdi22/presentation/weng), [traces](https://github.com/alibaba/clusterdata/tree/master/cluster-trace-gpu-v2020), [codes](https://github.com/alibaba/open-simulator)
+- 🎓 Ph.D. in AI System 🤖 and Cloud Computing ☁️
+- ❤️‍🔥 Love the sharing of [insights](https://www.usenix.org/conference/nsdi22/presentation/weng), [traces](https://github.com/alibaba/clusterdata/tree/master/cluster-trace-gpu-v2020), [codes](https://github.com/alibaba/open-simulator)
 - 📰 Paper published in Proc. NSDI, SC, SoCC
 
 <!--
