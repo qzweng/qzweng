@@ -2,7 +2,7 @@
 
 ![stars_of_collaborator](https://img.shields.io/github/stars/qzweng?affiliations=COLLABORATOR&style=social)
 ![followers](https://img.shields.io/github/followers/qzweng?style=social)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=qzweng.qzweng)
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=qzweng.qzweng)-->
 
 - 🎓 Ph.D. in AI System 🤖 and Cloud Computing ☁️
 - ❤️‍🔥 Love the sharing of [insights](https://www.usenix.org/conference/nsdi22/presentation/weng), [traces](https://github.com/alibaba/clusterdata/tree/master/cluster-trace-gpu-v2020), [codes](https://github.com/hkust-adsl/kubernetes-scheduler-simulator), etc.
